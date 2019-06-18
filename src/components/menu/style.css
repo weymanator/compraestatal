@@ -1,0 +1,8 @@
+.menu-custom {
+	display: flex;
+	margin-top: 0;
+}
+
+.menu-custom .collection-item {
+	flex: 1;
+}
