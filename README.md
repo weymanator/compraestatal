@@ -12,5 +12,5 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## Available Documents
 
-* [Propuesta](docs/propuesta.docx)
+* [Propuesta](docs/propuesta.pdf)
 * [Presentación](docs/presentación.pdf)
